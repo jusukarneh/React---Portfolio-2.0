@@ -2,7 +2,7 @@ function Hero(){
     return (
         <div class="hero_bg_box">
         <div class="img-box">
-          <img src="images/hero-bg.jpg" alt=""/>
+          <img src="images/j1.jpeg" alt=""/>
         </div>
       </div>
     )
