@@ -1,17 +1,17 @@
-function Card (){
+function Card (props){
     return (
         <>
         <div class="col-md-4 col-sm-6 mx-auto ">
           <div class="box">
             <div class="img-box">
-              <img src="images/j1.jpeg" alt=""/>
+              <img src={props.project.image} alt=""/>
             </div>
             <div class="detail-box">
               <h5>
-                Jusu Karneh
+                {props.project.name}
               </h5>
               <h6 class="">
-                supervisor
+                {props.project.title}
               </h6>
             </div>
           </div>

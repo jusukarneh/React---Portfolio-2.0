@@ -44,10 +44,10 @@ function Header (){
                   <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="about.html"> About</a>
+                  <a class="nav-link" href="/about"> About</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="/"> Profolio </a>
+                  <a class="nav-link" href="/portfolio"> Portfolio </a>
                 </li>
                
                 <li class="nav-item">

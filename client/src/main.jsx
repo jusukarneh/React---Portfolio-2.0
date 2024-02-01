@@ -5,6 +5,8 @@ import App from './App.jsx';
 import Home from './Pages/Home.jsx';
 import NotFound from './Pages/NotFound.jsx';
 import Contact from './Pages/Contact.jsx';
+import About from  './Pages/About.jsx';
+import Portfolio from './Pages/Portfolio.jsx';
 
 
 const router = createBrowserRouter([
@@ -20,6 +22,14 @@ const router = createBrowserRouter([
        {
         path: '/contact',
         element: <Contact />
+      }, 
+      {
+        path: '/about',
+        element: <About/>
+      }, 
+      {
+        path: '/portfolio',
+        element: <Portfolio />
       }, 
       // {
       //   path: '/matchup/:id',

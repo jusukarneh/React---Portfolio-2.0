@@ -1,7 +1,13 @@
-function Contact(){
-    return(
-        <>
-        <div class="container">
+function Contact() {
+  return (
+    <>
+       <section class="contact_section layout_padding">
+    <div class="contact_bg_box">
+      <div class="img-box">
+        {/* <img src="images/contact-bg.jpg" alt=""/> */}
+      </div>
+    </div>
+    <div class="container">
       <div class="heading_container heading_center">
         <h2>
           Get In touch
@@ -37,7 +43,8 @@ function Contact(){
         </div>
       </div>
     </div>
-        </>
-    )
+  </section>
+    </>
+  )
 }
 export default Contact

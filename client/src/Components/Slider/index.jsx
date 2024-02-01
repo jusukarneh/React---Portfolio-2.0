@@ -9,9 +9,9 @@ function Slider (){
                   <div class="col-md-7">
                     <div class="detail-box">
                       <h1>
-                        Your Saftey <br/>
+                        YOUR DREAM<br/>
                         <span>
-                          Our Responsibility
+                          TURNED WEBSITE
                         </span>
                       </h1>
                       <p>
