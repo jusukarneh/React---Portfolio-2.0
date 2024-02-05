@@ -9,18 +9,16 @@ function Slider (){
                   <div class="col-md-7">
                     <div class="detail-box">
                       <h1>
-                        YOUR DREAM<br/>
+                        DO <br/>
                         <span>
-                          TURNED WEBSITE
+                          MORE
                         </span>
                       </h1>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod magna aliqua. Ut enim ad minim veniam
+                      GREAT THINGS ARE DONE BY A SERIES OF SMALL THINGS BROUGHT TOGETHER!!!!!!!!!
                       </p>
                       <div class="btn-box">
-                        <a href="" class="btn-1"> Read more </a>
-                        <a href="" class="btn-2">Get A Quote</a>
+                        
                       </div>
                     </div>
                   </div>
@@ -33,18 +31,16 @@ function Slider (){
                   <div class="col-md-7">
                     <div class="detail-box">
                       <h1>
-                        Your Saftey <br/>
+                        DO SOMETHING  <br/>
                         <span>
-                          Our Responsibility
+                          GREAT
                         </span>
                       </h1>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod magna aliqua. Ut enim ad minim veniam
+                      GREAT THINGS ARE DONE BY A SERIES OF SMALL THINGS BROUGHT TOGETHER!!!!!!!!!
                       </p>
                       <div class="btn-box">
-                        <a href="" class="btn-1"> Read more </a>
-                        <a href="" class="btn-2">Get A Quote</a>
+                       
                       </div>
                     </div>
                   </div>
@@ -57,18 +53,16 @@ function Slider (){
                   <div class="col-md-7">
                     <div class="detail-box">
                       <h1>
-                        Your Saftey <br/>
+                        EVERYDAY <br/>
                         <span>
-                          Our Responsibility
+                          
                         </span>
                       </h1>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod magna aliqua. Ut enim ad minim veniam
+                        GREAT THINGS ARE DONE BY A SERIES OF SMALL THINGS BROUGHT TOGETHER!!!!!!!!!
                       </p>
                       <div class="btn-box">
-                        <a href="" class="btn-1"> Read more </a>
-                        <a href="" class="btn-2">Get A Quote</a>
+                      
                       </div>
                     </div>
                   </div>

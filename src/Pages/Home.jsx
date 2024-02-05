@@ -22,8 +22,7 @@ function Home (){
               My Creative Work
             </h2>
             <p>
-              Lorem ipsum dolor sit amet, non odio tincidunt ut ante, lorem a euismod suspendisse vel, sed quam nulla mauris
-              iaculis. Erat eget vitae malesuada, tortor tincidunt porta lorem lectus.
+             AN ESSENTIAL ASPECT OF CREATIVITY IS NOT BEING AFRIAD TO FAIL
             </p>
           </div>
           <div class="row">

@@ -8,7 +8,7 @@ function Header (){
             <a href="" class="contact_link1">
               <i class="fa fa-map-marker" aria-hidden="true"></i>
               <span>
-                Lorem ipsum dolor sit amet,
+                RESUME
               </span>
             </a>
             <a href="" class="contact_link2">
@@ -21,9 +21,20 @@ function Header (){
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span>
                 jusudaddi@yahoo.com
+                
               </span>
+              
             </a>
           </div>
+           <div class="social_box">
+              <a href="">
+                <i class="fa fa-LinkedIn"  aria-hidden="true"></i>
+              </a>
+              <a href="">
+                <i class="fa fa-github" aria-hidden="true"></i>
+              </a>
+              
+            </div>
         </div>
       </div>
       <div class="header_bottom">

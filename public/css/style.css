@@ -1,7 +1,7 @@
 @import url("font-awesome.min.css");
 body {
   font-family: "Poppins", sans-serif;
-  color: #2919E7;
+  color: #19e798;
   background-color: #0d0c0c53;
 }
 
@@ -334,7 +334,7 @@ a:focus {
 .slider_section .detail-box h1 {
   text-transform: uppercase;
   font-size: 3rem;
-  color: #ffffff;
+  color: #9b2626;
   font-weight: 600;
 }
 
@@ -371,7 +371,7 @@ a:focus {
 
 .slider_section .detail-box .btn-box .btn-1:hover {
   background-color: transparent;
-  border-color: #ffffff;
+  border-color: #851eda;
   color: #ffffff;
 }
 
