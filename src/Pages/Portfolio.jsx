@@ -85,11 +85,11 @@ function Portfolio() {
             <div class="col-md-4">
               <div class="box ">
                 <div class="img-box">
-                  <img src="images/mytipjar.png" alt="" class="w-100" />
+                  <img src="images/feds1.png" alt="" class="w-100" />
                 </div>
                 <div class="detail-box">
                   <h6>
-                    My Tip Jar
+                    FED'S BUBBLE
                   </h6>
                   <p>
                     Minima consequatur architecto eaque assumenda ipsam itaque quia eum in doloribus debitis impedit ut minus tenetur corrupti excepturi ullam.
