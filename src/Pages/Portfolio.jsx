@@ -20,7 +20,7 @@ function Portfolio() {
                     Work Day Schedule
                   </h6>
                   <p>
-                    Minima consequatur architecto eaque assumenda ipsam itaque quia eum in doloribus debitis impedit ut minus tenetur corrupti excepturi ullam.
+                    just a daily schedule
                   </p>
                   <a href="https://jusukarneh.github.io/work-day-schedule/" target="_blank">
                     Live Link
@@ -38,7 +38,7 @@ function Portfolio() {
                     Weather Dashboard
                   </h6>
                   <p>
-                    Minima consequatur architecto eaque assumenda ipsam itaque quia eum in doloribus debitis impedit ut minus tenetur corrupti excepturi ullam.
+                    making sure you keep up with the weather change in any state
                   </p>
                   <a href="https://jusukarneh.github.io/weather-dashboard/" target="_blank">
                     Live Link
@@ -56,7 +56,7 @@ function Portfolio() {
                     GYMPAL
                   </h6>
                   <p>
-                    Minima consequatur architecto eaque assumenda ipsam itaque quia eum in doloribus debitis impedit ut minus tenetur corrupti excepturi ullam.
+                    workout steps and dietary
                   </p>
                   <a href="https://bizwliz.github.io/gympal-project-one/" target="_blank">
                     Live Link
@@ -74,7 +74,7 @@ function Portfolio() {
                     My Tip Jar
                   </h6>
                   <p>
-                    Minima consequatur architecto eaque assumenda ipsam itaque quia eum in doloribus debitis impedit ut minus tenetur corrupti excepturi ullam.
+                    when working in an industry that tips and showing you how to save money
                   </p>
                   <a href="https://tip-jar-7e511648aa40.herokuapp.com/" target="_blank">
                     Live Link
@@ -92,9 +92,9 @@ function Portfolio() {
                     FED'S BUBBLE
                   </h6>
                   <p>
-                    Minima consequatur architecto eaque assumenda ipsam itaque quia eum in doloribus debitis impedit ut minus tenetur corrupti excepturi ullam.
+                    a friend restaurant that is still growing
                   </p>
-                  <a href="https://tip-jar-7e511648aa40.herokuapp.com/" target="_blank">
+                  <a href="https://feds-bubble-870a11aa1aca.herokuapp.com/" target="_blank">
                     Live Link
                   </a>
                 </div>
@@ -110,7 +110,7 @@ function Portfolio() {
                     CODE QUIZ
                   </h6>
                   <p>
-                    Minima consequatur architecto eaque assumenda ipsam itaque quia eum in doloribus debitis impedit ut minus tenetur corrupti excepturi ullam.
+                    school test and the score at the end
                   </p>
                   <a href="" target="_blank">
                     Live Link
