@@ -28,12 +28,12 @@ function Header() {
             </div>
             <div class="social_box">
 
-              <a href="https://www.linkedin.com/in/jusu-karneh-3179b669/">
+              <a href="https://www.linkedin.com/in/jusu-karneh-3179b669/" target="_blank" >
 
                 <i class="fa fa-linkedin" aria-hidden="true"> </i>
               </a>
 
-              <a href="https://github.com/jusukarneh">
+              <a href="https://github.com/jusukarneh" target="_blank" >
 
                 <i class="fa fa-github" aria-hidden="true"></i>
               </a>
