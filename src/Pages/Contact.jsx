@@ -20,16 +20,16 @@ function Contact() {
               <div class="contact_form-container">
                 <div>
                   <div>
-                    <input type="text" placeholder="Full Name" />
+                    <input type="text" placeholder="Full Name"  required/>
                   </div>
                   <div>
-                    <input type="email" placeholder="Email " />
+                    <input type="email" placeholder="Email " required/>
                   </div>
                   <div>
-                    <input type="text" placeholder="Phone Number" />
+                    <input type="text" placeholder="Phone Number" required/>
                   </div>
                   <div class="">
-                    <input type="text" placeholder="Message" class="message_input" />
+                    <input type="text" placeholder="Message" class="message_input"  required/>
                   </div>
                   <div class="btn-box ">
                     <button type="submit">

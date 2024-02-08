@@ -110,7 +110,7 @@ function Portfolio() {
                     CODE QUIZ
                   </h6>
                   <p>
-                    school test and the score at the end
+                    creating a  test and the score at the end
                   </p>
                   <a href="https://jusukarneh.github.io/my-code-quiz/" target="_blank">
                     Live Link
