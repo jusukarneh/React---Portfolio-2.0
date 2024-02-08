@@ -1,4 +1,12 @@
+import { useState } from "react"
+
 function Contact() {
+  const [ formState,setFormState]= useState({
+    fullname:"",
+    email:"",
+    phonenumber:"",
+    message:"",
+  })
   return (
     <>
        <section class="contact_section layout_padding">
@@ -20,16 +28,16 @@ function Contact() {
               <div class="contact_form-container">
                 <div>
                   <div>
-                    <input type="text" placeholder="Full Name"  required/>
+                    <input value={formState.fullname} onChange={event=>setFormState({...formState,fullname:event.target.value})} type="text" placeholder="Full Name"  required/>
                   </div>
                   <div>
-                    <input type="email" placeholder="Email " required/>
+                    <input value={formState.email} onChange={event=>setFormState({...formState,email:event.target.value})}  type="email" placeholder="Email " required/>
                   </div>
                   <div>
-                    <input type="text" placeholder="Phone Number" required/>
+                    <input value={formState.phonenumber} onChange={event=>setFormState({...formState,phonenumber:event.target.value})}   type="text" placeholder="Phone Number" required/>
                   </div>
                   <div class="">
-                    <input type="text" placeholder="Message" class="message_input"  required/>
+                    <input value={formState.massage} onChange={event=>setFormState({...formState,message:event.target.value})}  type="text" placeholder="Message" class="message_input"  required/>
                   </div>
                   <div class="btn-box ">
                     <button type="submit">
