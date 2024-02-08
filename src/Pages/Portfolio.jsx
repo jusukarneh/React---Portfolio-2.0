@@ -112,7 +112,7 @@ function Portfolio() {
                   <p>
                     school test and the score at the end
                   </p>
-                  <a href="" target="_blank">
+                  <a href="https://jusukarneh.github.io/my-code-quiz/" target="_blank">
                     Live Link
                   </a>
                 </div>
