@@ -7,7 +7,7 @@ import NotFound from './Pages/NotFound.jsx';
 import Contact from './Pages/Contact.jsx';
 import About from  './Pages/About.jsx';
 import Portfolio from './Pages/Portfolio.jsx';
-
+import Send from './Pages/Sendemail.jsx';
 
 const router = createBrowserRouter([
   {
@@ -31,6 +31,10 @@ const router = createBrowserRouter([
         path: '/portfolio',
         element: <Portfolio />
       }, 
+      {
+        path: '/email',
+        element: <Send/>
+      },
       // {
       //   path: '/matchup/:id',
       //   element: <Vote />

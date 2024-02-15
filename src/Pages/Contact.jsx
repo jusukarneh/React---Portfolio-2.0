@@ -7,6 +7,12 @@ function Contact() {
     phonenumber:"",
     message:"",
   })
+  function handleSubmit(event){
+    event.preventDefault()
+    console.log(formState)
+    
+    window.Location.href="mailto:jusudaddi@yahoo.com?subject="+formState.fullname+"&body="+formState.message
+  }
   return (
     <>
        <section class="contact_section layout_padding">
@@ -24,7 +30,7 @@ function Contact() {
       <div class="">
         <div class="row">
           <div class="col-md-7 mx-auto">
-            <form action="#">
+            <form onSubmit={handleSubmit}>
               <div class="contact_form-container">
                 <div>
                   <div>
@@ -37,7 +43,7 @@ function Contact() {
                     <input value={formState.phonenumber} onChange={event=>setFormState({...formState,phonenumber:event.target.value})}   type="text" placeholder="Phone Number" required/>
                   </div>
                   <div class="">
-                    <input value={formState.massage} onChange={event=>setFormState({...formState,message:event.target.value})}  type="text" placeholder="Message" class="message_input"  required/>
+                    <input value={formState.message} onChange={event=>setFormState({...formState,message:event.target.value})}  type="text" placeholder="Message" class="message_input"  required/>
                   </div>
                   <div class="btn-box ">
                     <button type="submit">
