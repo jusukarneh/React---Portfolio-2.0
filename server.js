@@ -25,16 +25,17 @@ const PORT = process.env.PORT || 5000
  
 
 app.post('/api/send', async(req, res) => {
+  console.log(req.body)
     const options = {
         from:  `${req.body.name} <${req.body.email}>`,
-        to: req.body.email,
+        to: process.env.EMAIL,
         subject: req.body.subject,
         html:  req.body.message,
       };
       console.log(options)
       await transporter.sendMail(options);
 
-      res.status(200).redirect("/")
+      res.status(200).json({message:"email sent successfully"})
 })
 
 
